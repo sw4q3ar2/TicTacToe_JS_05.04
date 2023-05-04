@@ -1,0 +1,13 @@
+article{
+    display: grid;
+    grid-template-columns: 70px 70px 70px;
+    background-color: rgb(16, 192, 133);
+}
+
+.Elem{
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 25px;
+}
